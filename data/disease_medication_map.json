@@ -1,0 +1,12 @@
+{
+  "hypertension": ["amlodipine", "lisinopril", "losartan", "hydrochlorothiazide"],
+  "diabetes": ["metformin", "glipizide", "insulin", "sitagliptin"],
+  "asthma": ["albuterol", "budesonide", "fluticasone", "montelukast"],
+  "depression": ["sertraline", "fluoxetine", "escitalopram", "bupropion"],
+  "hypothyroidism": ["levothyroxine"],
+  "hyperlipidemia": ["atorvastatin", "rosuvastatin", "simvastatin"],
+  "gastroesophageal reflux disease": ["omeprazole", "pantoprazole", "ranitidine"],
+  "coronary artery disease": ["aspirin", "atorvastatin", "nitroglycerin", "clopidogrel"],
+  "anemia": ["ferrous sulfate", "vitamin B12", "epoetin alfa"],
+  "migraine": ["sumatriptan", "topiramate", "propranolol", "ibuprofen"]
+}

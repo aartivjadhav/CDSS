@@ -1,0 +1,9 @@
+1) the dataset is downloaded from kaggle - https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
+2) columns -
+    description - Short description of transcription
+    medical_specialty - Medical specialty classification of transcription
+    sample_name - Transcription title
+    transcription - Sample medical transcriptions
+    keywords - Relevant keywords from transcription
+3) dataset is downloaded and unzip in the file data/download_kaggle_dataset.py
+4) 
